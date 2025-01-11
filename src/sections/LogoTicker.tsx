@@ -21,7 +21,7 @@ const logos = [
 
 export default function LogoTicker() {
   return (
-    <section>
+    <section className="py-12">
       <div className="container">
         <h3 className="text-center text-primary-foreground/50 text-xl">
           Already chosen by these market leaders
