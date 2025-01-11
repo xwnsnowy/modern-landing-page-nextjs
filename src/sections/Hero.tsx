@@ -40,7 +40,7 @@ export default function Hero() {
           <Input
             placeholder="Enter your email"
             type="email"
-            className="border-none focus-visible:ring-0 focus-visible:ring-offset-0"
+            className="border-none focus-visible:ring-0 focus-visible:ring-offset-0 w-full"
           />
           <Button
             type="submit"
