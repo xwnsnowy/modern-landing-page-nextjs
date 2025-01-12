@@ -30,7 +30,7 @@ const data: Feature[] = [
     description: "Work together seamlessly with conflict resolution",
     children: (
       <div className="aspect-video flex items-center justify-center">
-        <Avatar className="-ml-6 border-red-500 z-40">
+        <Avatar className="-ml-0 border-red-500 z-40">
           <Image src={avatar1} alt="Real-time" className="rounded-full" />
         </Avatar>
         <Avatar className="-ml-6 border-indigo-500 z-30">
