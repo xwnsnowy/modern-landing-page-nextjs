@@ -33,7 +33,7 @@ export default {
 		},
 		extend: {
 			cursor: {
-				'custom-cursor-you': 'url(/assets/images/cursor-you.svg), auto',
+				'custom-cursor-you': 'url(/cursor-you.svg), auto',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
