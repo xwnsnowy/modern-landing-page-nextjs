@@ -32,6 +32,9 @@ export default {
 			xl: '1280px'
 		},
 		extend: {
+			cursor: {
+				'custom-cursor-you': 'url(/assets/images/cursor-you.svg), auto',
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
